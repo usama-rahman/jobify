@@ -22,6 +22,11 @@ const links: NavLink[] = [
     label: "stats",
     icon: <AreaChart />,
   },
+  {
+    href: "/chart",
+    label: "chart",
+    icon: <AreaChart />,
+  },
 ];
 
 export default links;
